@@ -7,3 +7,6 @@ find . -iname '*.jar' -printf "unzip -c %p | grep -q '192.168.100.167' && echo %
 
 Git is a version control system.
 Git is free software.
+
+Git is a open source and free system.
+Git is free software.
